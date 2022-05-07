@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Visualizacion del cambio climatico a traves de imagenes satelitales" />
+        <meta name="description" content="Visualizacion del cambio climatico" />
         <meta name="author" content="Guardianes del clima" />
-        <title>Clean Blog - Start Bootstrap Theme</cambio-climatico>
+        <title>Clean Blog - Start Bootstrap Theme</CambioClimatico>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
